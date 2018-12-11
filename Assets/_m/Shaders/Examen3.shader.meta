@@ -5,7 +5,6 @@ ShaderImporter:
   defaultTextures:
   - _TempDiffuse: {fileID: 2800000, guid: 418615141e6970344ab49489d6351044, type: 3}
   - _AmbientOcclusion: {fileID: 2800000, guid: 0c02644cdb3475440b3c4f20fa122390, type: 3}
-  - _ColorRamp: {fileID: 2800000, guid: e80af894d8b555347b8c0b8b0377f526, type: 3}
   - _NormalMap: {fileID: 2800000, guid: 97931d4271ac99f4a8718f252e1e9f4c, type: 3}
   - _SpecularMap: {fileID: 2800000, guid: 264cc9ef54d8bf54e9d4f41915055c57, type: 3}
   nonModifiableTextures: []
