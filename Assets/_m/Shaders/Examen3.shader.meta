@@ -3,10 +3,16 @@ guid: 87bd8cd9a34f15449919e757188b697b
 ShaderImporter:
   externalObjects: {}
   defaultTextures:
-  - _TempDiffuse: {fileID: 2800000, guid: 418615141e6970344ab49489d6351044, type: 3}
   - _AmbientOcclusion: {fileID: 2800000, guid: 0c02644cdb3475440b3c4f20fa122390, type: 3}
   - _NormalMap: {fileID: 2800000, guid: 97931d4271ac99f4a8718f252e1e9f4c, type: 3}
   - _SpecularMap: {fileID: 2800000, guid: 264cc9ef54d8bf54e9d4f41915055c57, type: 3}
+  - _Mask1: {fileID: 2800000, guid: 796c6b51d06db73498d14315ac2dff34, type: 3}
+  - _Mask2: {fileID: 2800000, guid: 7734d413462ff0841b29dc2903af9c8e, type: 3}
+  - _Mask3: {fileID: 2800000, guid: 765387759abdca546a29351f503dd84a, type: 3}
+  - _Mask4: {fileID: 2800000, guid: 1550ee89eed68b24a810e72dc6166e1d, type: 3}
+  - _Mask5: {fileID: 2800000, guid: 7d80a754b4ddbc7438e566dde94a0cc0, type: 3}
+  - _Mask6: {fileID: 2800000, guid: 87d1a8b9cd483f74290178a2de73fb31, type: 3}
+  - _ColorRamp: {fileID: 2800000, guid: e80af894d8b555347b8c0b8b0377f526, type: 3}
   nonModifiableTextures: []
   userData: 
   assetBundleName: 

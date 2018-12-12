@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Examen3_2
+  m_Shader: {fileID: 4800000, guid: 87bd8cd9a34f15449919e757188b697b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AmbientOcclusion:
+        m_Texture: {fileID: 2800000, guid: 0c02644cdb3475440b3c4f20fa122390, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorRamp:
+        m_Texture: {fileID: 2800000, guid: e80af894d8b555347b8c0b8b0377f526, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask1:
+        m_Texture: {fileID: 2800000, guid: 796c6b51d06db73498d14315ac2dff34, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask2:
+        m_Texture: {fileID: 2800000, guid: 7734d413462ff0841b29dc2903af9c8e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask3:
+        m_Texture: {fileID: 2800000, guid: 765387759abdca546a29351f503dd84a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask4:
+        m_Texture: {fileID: 2800000, guid: 1550ee89eed68b24a810e72dc6166e1d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask5:
+        m_Texture: {fileID: 2800000, guid: 7d80a754b4ddbc7438e566dde94a0cc0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask6:
+        m_Texture: {fileID: 2800000, guid: 87d1a8b9cd483f74290178a2de73fb31, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 97931d4271ac99f4a8718f252e1e9f4c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMap:
+        m_Texture: {fileID: 2800000, guid: 264cc9ef54d8bf54e9d4f41915055c57, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientLightSteps: 10
+    - _AmbientOcclusionSteps: 7.158212
+    - _LightSteps: 4
+    - _NormalIntensity: 1
+    - _OutLineWidth: 0.009752635
+    - _ShadowSteps: 6.042786
+    - _SpecularIntensity: 0.64
+    - _SpecularLightSteps: 2
+    - _SpecularPower: 3
+    - _UseCustomLightColors: 0
+    m_Colors:
+    - _Color1Dark: {r: 0.4056604, g: 0.08993414, b: 0.08993414, a: 1}
+    - _Color1Light: {r: 0.8301887, g: 0.1527234, b: 0.1527234, a: 1}
+    - _Color2Dark: {r: 0.3112448, g: 0.06314526, b: 0.3113208, a: 1}
+    - _Color2Light: {r: 0.8301887, g: 0.238875, b: 0.8117285, a: 1}
+    - _Color3Dark: {r: 0.08490568, g: 0.01161446, b: 0.01161446, a: 1}
+    - _Color3Light: {r: 0.4245283, g: 0.006007465, b: 0.03299621, a: 1}
+    - _Color4Dark: {r: 0.6132076, g: 0.4820032, b: 0.3384212, a: 1}
+    - _Color4Light: {r: 1, g: 0.7490196, b: 0.5647059, a: 1}
+    - _Color5Dark: {r: 0.1325191, g: 0.05767177, b: 0.1509434, a: 1}
+    - _Color5Light: {r: 0.4478282, g: 0.1052421, b: 0.5188679, a: 1}
+    - _Color6Dark: {r: 0.2011834, g: 0.2264151, b: 0.1634033, a: 1}
+    - _Color6Light: {r: 0.3457636, g: 0.6981132, b: 0.3840533, a: 1}
+    - _CustomAmbienLightColor: {r: 0.31132078, g: 0.0102794655, b: 0.0102794655, a: 1}
+    - _CustomLightColor: {r: 0.9711919, g: 0.9716981, b: 0.75627446, a: 1}
+    - _CustomSpecularColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _KevlarHatColorDark: {r: 0.5188679, g: 0.3425407, b: 0.080767184, a: 1}
+    - _KevlarHatColorLight: {r: 1, g: 0.6412373, b: 0, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _PantsColorLight: {r: 0.8773585, g: 0.58189654, b: 0.053800307, a: 1}
+    - _PatsColorDark: {r: 0.8018868, g: 0.5411281, b: 0.07186719, a: 1}
+    - _ShirtColorDark: {r: 0, g: 0, b: 0, a: 1}
+    - _ShirtColorLight: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 1}
+    - _ShoeBeltHatColorLight: {r: 0.038714837, g: 0.5471698, b: 0.13917749, a: 1}
+    - _ShoeBetHatColorDark: {r: 0.017399432, g: 0.21698111, b: 0.06510432, a: 1}
+    - _SkinColorDark: {r: 0.6132076, g: 0.4820032, b: 0.3384212, a: 1}
+    - _SkinColorLight: {r: 1, g: 0.7490196, b: 0.5647059, a: 1}
+    - _SuspendersCOlorDark: {r: 0.16981131, g: 0.13536845, b: 0.14195715, a: 1}
+    - _SuspendersColorLight: {r: 0.3773585, g: 0.22727934, b: 0.051619805, a: 1}
