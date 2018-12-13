@@ -22,6 +22,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 0c02644cdb3475440b3c4f20fa122390, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _AmbientRampSpecular:
+        m_Texture: {fileID: 2800000, guid: c5dcc3c08bf9f8f449a4d032529f6ea6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _ColorRamp:
         m_Texture: {fileID: 2800000, guid: e80af894d8b555347b8c0b8b0377f526, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -50,6 +54,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 87d1a8b9cd483f74290178a2de73fb31, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _NormalAndMask:
+        m_Texture: {fileID: 2800000, guid: eb364ee9edd9e384084d5b1e2ac5ef0b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _NormalMap:
         m_Texture: {fileID: 2800000, guid: 97931d4271ac99f4a8718f252e1e9f4c, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -63,7 +71,7 @@ Material:
     - _AmbientOcclusionSteps: 7.158212
     - _LightSteps: 4
     - _NormalIntensity: 1
-    - _OutLineWidth: 0.009752635
+    - _OutLineWidth: 0.0078
     - _ShadowSteps: 6.042786
     - _SpecularIntensity: 0.64
     - _SpecularLightSteps: 2

@@ -22,6 +22,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 0c02644cdb3475440b3c4f20fa122390, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _AmbientRampSpecular:
+        m_Texture: {fileID: 2800000, guid: c5dcc3c08bf9f8f449a4d032529f6ea6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _ColorRamp:
         m_Texture: {fileID: 2800000, guid: e80af894d8b555347b8c0b8b0377f526, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -50,6 +54,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 87d1a8b9cd483f74290178a2de73fb31, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _NormalAndMask:
+        m_Texture: {fileID: 2800000, guid: eb364ee9edd9e384084d5b1e2ac5ef0b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _NormalMap:
         m_Texture: {fileID: 2800000, guid: 97931d4271ac99f4a8718f252e1e9f4c, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -60,14 +68,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _AmbientLightSteps: 10
-    - _AmbientOcclusionSteps: 7.158212
+    - _AmbientOcclusionSteps: 12.61
     - _LightSteps: 4
-    - _NormalIntensity: 1
-    - _OutLineWidth: 0.009752635
-    - _ShadowSteps: 5.9
-    - _SpecularIntensity: 1.08
-    - _SpecularLightSteps: 3.6
-    - _SpecularPower: 4.6
+    - _NormalIntensity: 0.803
+    - _OutLineWidth: 0.0068
+    - _ShadowSteps: 6.51
+    - _SpecularIntensity: 1.293
+    - _SpecularLightSteps: 2
+    - _SpecularPower: 5.3
     - _UseCustomLightColors: 0
     m_Colors:
     - _Color1Dark: {r: 0.4056604, g: 0.08993414, b: 0.08993414, a: 1}
@@ -83,8 +91,8 @@ Material:
     - _Color6Dark: {r: 0.2011834, g: 0.2264151, b: 0.1634033, a: 1}
     - _Color6Light: {r: 0.41598436, g: 0.7169812, b: 0.44942847, a: 1}
     - _CustomAmbienLightColor: {r: 0.31132078, g: 0.0102794655, b: 0.0102794655, a: 1}
-    - _CustomLightColor: {r: 0.9711919, g: 0.9716981, b: 0.75627446, a: 1}
-    - _CustomSpecularColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _CustomLightColor: {r: 0.972549, g: 0.75686276, b: 0.76146495, a: 1}
+    - _CustomSpecularColor: {r: 0.764151, g: 0.5731132, b: 0.5731132, a: 1}
     - _KevlarHatColorDark: {r: 0.22579211, g: 0.8113208, b: 0.34413293, a: 1}
     - _KevlarHatColorLight: {r: 0.27429688, g: 0.8679245, b: 0.31322125, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}

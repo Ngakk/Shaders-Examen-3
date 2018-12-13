@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 87bd8cd9a34f15449919e757188b697b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _AmbientRampSpecular: {fileID: 2800000, guid: c5dcc3c08bf9f8f449a4d032529f6ea6,
+      type: 3}
+  - _NormalAndMask: {fileID: 2800000, guid: eb364ee9edd9e384084d5b1e2ac5ef0b, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
